@@ -53,7 +53,7 @@
         price:4200, 
         zip:"30303", 
         yard:"Atlanta, GA", 
-        img:"../assets/images/engine/3.5 L EcoBoost V6 (standard version)-1.jpg",
+        img:"./assets/images/engine/3.5 L EcoBoost V6 (standard version)-1.jpg",
         shortDescription:`<li class="list-group-item">Twin-turbo powerhouse for towing & hauling</li>
                           <li class="list-group-item">~375 hp / ~470 lb-ft torque</li>
                           <li class="list-group-item">Great for heavy-duty performance builds</li>
@@ -81,7 +81,7 @@
         price:4550, 
         zip:"90011", 
         yard:"Los Angeles, CA", 
-        img:"../assets/images/engine/2.7 L EcoBoost V6 (twin-turbo)-1.jpg",
+        img:"./assets/images/engine/2.7 L EcoBoost V6 (twin-turbo)-1.jpg",
         shortDescription:`<li class="list-group-item">Twin-turbo V6 with excellent power & fuel efficiency</li>
                           <li class="list-group-item">~325 hp / ~400 lb-ft torque</li>
                           <li class="list-group-item">Best for daily driving, light towing & work trucks</li>
@@ -109,7 +109,7 @@
         price:3650, 
         zip:"75201", 
         yard:"Dallas, TX", 
-        img:"../assets/images/engine/5.0 L Ti-VCT V8.jpg",
+        img:"./assets/images/engine/5.0 L Ti-VCT V8.jpg",
         shortDescription:`<li class="list-group-item">Legendary V8 power with classic sound</li>
                       <li class="list-group-item">~395 hp / ~400 lb-ft torque</li>
                       <li class="list-group-item">Excellent for hauling, heavy-duty jobs, and upgrades</li>
@@ -137,7 +137,7 @@
         price:3650, 
         zip:"71520", 
         yard:"Dallas, TX", 
-        img:"../assets/images/engine/3.0 L PowerStroke V6 Turbo Diesel-2.jpg",
+        img:"./assets/images/engine/3.0 L PowerStroke V6 Turbo Diesel-2.jpg",
         shortDescription:`<li class="list-group-item">Turbo-diesel torque & superior fuel economy</li>
                           <li class="list-group-item">~250 hp / ~440 lb-ft torque</li>
                           <li class="list-group-item">Ideal for towing, long-distance, and commercial use</li>
@@ -164,7 +164,7 @@
         price:3150, 
         zip:"60604", 
         yard:"Chicago, IL", 
-        img:"../assets/images/engine/3.3 L Ti-VCT V6-2.jpg",
+        img:"./assets/images/engine/3.3 L Ti-VCT V6-2.jpg",
         shortDescription:`<li class="list-group-item">Reliable, naturally aspirated base engine</li>
         <li class="list-group-item">~290 hp / ~265 lb-ft torque</li>
         <li class="list-group-item">Low-maintenance, ideal for fleet & utility trucks</li>
@@ -191,7 +191,7 @@
         price:5900, 
         zip:"33101", 
         yard:"Miami, FL", 
-        img:"../assets/images/engine/3.5 L EcoBoost V6 (standard version)-1.jpg",
+        img:"./assets/images/engine/3.5 L EcoBoost V6 (standard version)-1.jpg",
         shortDescription:`<li class="list-group-item">High-performance twin-turbo V6 (Raptor/Limited)</li>
                           <li class="list-group-item">~450 hp / ~510 lb-ft torque</li>
                           <li class="list-group-item">Best choice for off-road builds & top-spec trucks</li>
@@ -217,84 +217,84 @@
       { 
         id:1, 
         title:"Choosing the Right Used Ford F-150 Engine for Your Needs",
-        cover:"../assets/images/blogs/1.jpg", 
+        cover:"./assets/images/blogs/1.jpg", 
         excerpt:"Model years, engine codes, and what to check before you buy.", 
         content:`<p>Selecting the right used engine for your Ford F-150 (2015–2020) is crucial to ensure performance and compatibility. This blog will walk you through a systematic process for making an informed decision and avoiding costly mistakes.​​</p>` 
       },
       { 
         id:2, 
         title:"Understanding Engine Codes and VIN Decoding",
-        cover:"../assets/images/blogs/2.jpg", 
+        cover:"./assets/images/blogs/2.jpg", 
         excerpt:"How mileage, warranty, and yard reputation affect value.", 
         content:`<p>Each Ford F-150 engine is identified by a unique engine code, and the 8th digit of the Vehicle Identification Number (VIN) reveals the specific type of engine your truck requires. Common codes include 2.7L EcoBoost, 3.5L EcoBoost, 5.0L V8, and 3.3L V6. Start by locating your truck’s VIN and using it to cross-match the donor engine for seamless fitment.​</p>` 
       },
       { 
         id:3, 
         title:"Compatibility Checklist", 
-        cover:"../assets/images/blogs/3.jpg", 
+        cover:"./assets/images/blogs/3.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`​<p>Before purchasing, ensure year-to-year compatibility and match sensor plug types and mounting points. Engines for 2015–2020 mostly interchange, but always double-check wiring harnesses and transmission pairings. Ask for compression or leakdown test results from the seller and verify warranty terms for additional peace of mind.​​​</p>` 
       },
       { 
         id:4, 
         title:"Accessory Transfer and Planning",
-        cover:"../assets/images/blogs/4.jpg", 
+        cover:"./assets/images/blogs/4.jpg", 
         excerpt:"Model years, engine codes, and what to check before you buy.", 
         content:`<p>Used engines rarely come with every accessory, so plan for new gaskets, fluids, and the transfer of fuel rails, sensors, or manifolds. Confirm the warranty and return policy from the salvage yard. Finally, trust Spairo LLC to verify inventory and help select the best match by ZIP for shipping efficiency.​</p>` 
       },
       { 
         id:5, 
         title:"Mileage vs. Price: Finding the Best Value in Used Truck Engines",
-        cover:"../assets/images/blogs/5.jpg", 
+        cover:"./assets/images/blogs/5.jpg", 
         excerpt:"How mileage, warranty, and yard reputation affect value.", 
         content:`<p>The mileage on a used truck engine is one of the most important factors affecting price and value. Here’s how to strike the right balance for your Ford F-150 engine purchase.</p>` 
       },
       { 
         id:6, 
         title:"How Mileage Influences Cost and Lifespan", 
-        cover:"../assets/images/blogs/6.jpg", 
+        cover:"./assets/images/blogs/6.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`<p>Engines with lower mileage typically cost more, but this does not always mean higher quality or longer life. Engines in the 60,000–100,000 mile range often hit the sweet spot between affordability and reliability. Evaluate the engine’s maintenance records and ask about prior service, oil changes, and any major repairs.</p>` 
       },
       { 
         id:7, 
         title:"Warranty and Yard Reputation", 
-        cover:"../assets/images/blogs/7.jpg", 
+        cover:"./assets/images/blogs/7.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`<p>Regardless of mileage, warranty terms matter greatly. Salvage yards that offer guarantees provide peace of mind, and established yards with positive reputations often have stringent quality checks. Asking for available warranty coverage—even on higher-mileage engines—can protect your investment.</p>` 
       },
       { 
         id:8, 
         title:"Freight Costs and Yard Proximity", 
-        cover:"../assets/images/blogs/8.jpg", 
+        cover:"./assets/images/blogs/8.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`<p>Don’t overlook shipping expenses. Closer yards mean lower freight costs and reduced transit times. Spairo LLC’s service matches you to the nearest available yard based on your ZIP code, optimizing cost and delivery speed for your F-150 engine purchase.​</p>` 
       },
       { 
         id:9, 
         title:"What to Expect with Shipping and Delivery for Used Engines", 
-        cover:"../assets/images/blogs/9.jpg", 
+        cover:"./assets/images/blogs/9.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`<p>Logistics are often the biggest source of anxiety for used engine buyers. Here’s what you need to know about shipping timelines, fees, and preparations when sourcing through Spairo LLC.​</p>` 
       },
       { 
         id:10, 
         title:"Typical Shipping Timelines and Procedures", 
-        cover:"../assets/images/blogs/10.jpg", 
+        cover:"./assets/images/blogs/10.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`<p>Most orders ship within 2–5 business days after the salvage yard receives payment. Buyers receive tracking information and regular delivery updates, allowing you to plan for installation without guesswork. Double-check the estimated ship date with the seller and clarify whether weekend delivery is available.​</p>` 
       },
       { 
         id:11, 
         title:"Liftgate Fees and Delivery Requirements", 
-        cover:"../assets/images/blogs/11.jpg", 
+        cover:"./assets/images/blogs/11.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`<p>Large engine shipments may require a liftgate truck at delivery—especially for residential or shop locations without loading docks. It’s wise to confirm with the yard if liftgate service is needed, and factor in any associated fees at the time of purchase. Be present for delivery, as the Bill of Lading (BOL) must be inspected immediately.​</p>` 
       },
       { 
         id:12, 
         title:"Inspection on Arrival and After-Sales Service", 
-        cover:"../assets/images/blogs/12.jpg", 
+        cover:"./assets/images/blogs/12.jpg", 
         excerpt:"Door‑to‑door delivery, lift‑gate fees, and preparation tips.", 
         content:`<p>Upon crate arrival, inspect for visible damage and document issues on the BOL before signing. Salvage yards will typically address any shipment issues promptly. With Spairo LLC, you benefit from coordinated after-sales support and access to responsive customer service should any problems arise.</p>` 
       }
@@ -336,6 +336,7 @@
                       <b>Yard:</b> <span class="muted">${p.yard}</span><span> | <b>ZIP</b> ${p.zip}</span>
                       <br>
                     </li>
+
                     <b class='p-1'>Short Description:</b>
                     ${p.shortDescription}
                 </div>` 
