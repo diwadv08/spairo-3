@@ -1863,7 +1863,7 @@ input:focus,textarea:focus,select:focus{
   padding:20px;
   border-radius:10px;
   border:none;
-  border-top:8px solid silver;
+  border-top:8px solid #ebebeb;
 }
 .products .card:hover{
   border-top:8px solid var(--success);
