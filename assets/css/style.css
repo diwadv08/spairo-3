@@ -1073,7 +1073,7 @@ h1 span,h2 span{
 }
 .filter-bar{
   padding:0 25px 20px;
-  height:65%;
+  height:73vh;
 }
 .filters{
   position:sticky;
@@ -1218,17 +1218,17 @@ textarea:focus {
   font-weight:600;
   width:100%;
   border-radius:100px;
-  padding:8px 65px;
+  padding:14px 95px;
   text-align:center;
   text-decoration:none;
 }
-.btns-cta{
+.btns-cta:hover{
   background:var(--bg);
   color:var(--black);
 }
 
-.btns-cta:hover{
-  background:var(--danger);
+.btns-cta{
+  background:var(--red-light);
   color:white;
 }
 /* =========================================================
@@ -1457,7 +1457,7 @@ textarea:focus {
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 16px 18px;
+  padding: 8px 18px;
   font-weight:600;
   color: var(--text);
   font-size: 1rem;
